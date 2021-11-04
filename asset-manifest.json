@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-online-offline/static/css/main.a617e044.chunk.css",
+    "main.js": "/react-online-offline/static/js/main.50b6a17e.chunk.js",
+    "main.js.map": "/react-online-offline/static/js/main.50b6a17e.chunk.js.map",
+    "runtime-main.js": "/react-online-offline/static/js/runtime-main.6bb31c66.js",
+    "runtime-main.js.map": "/react-online-offline/static/js/runtime-main.6bb31c66.js.map",
+    "static/js/2.29a55ae8.chunk.js": "/react-online-offline/static/js/2.29a55ae8.chunk.js",
+    "static/js/2.29a55ae8.chunk.js.map": "/react-online-offline/static/js/2.29a55ae8.chunk.js.map",
+    "static/js/3.ecc5a222.chunk.js": "/react-online-offline/static/js/3.ecc5a222.chunk.js",
+    "static/js/3.ecc5a222.chunk.js.map": "/react-online-offline/static/js/3.ecc5a222.chunk.js.map",
+    "index.html": "/react-online-offline/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/react-online-offline/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.29a55ae8.chunk.js.LICENSE.txt": "/react-online-offline/static/js/2.29a55ae8.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/react-online-offline/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6bb31c66.js",
+    "static/js/2.29a55ae8.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.50b6a17e.chunk.js"
+  ]
+}
